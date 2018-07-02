@@ -17,6 +17,7 @@
   "repository": "tweedjs/tweed-router",
   "author": "Emil Persson <emil.n.persson@gmail.com> (https://emilpersson.se)",
   "main": "dist/index.js",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
     "tweed": "^0.5.3"
