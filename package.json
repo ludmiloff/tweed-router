@@ -20,7 +20,7 @@
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
-    "tweed": "^0.5.3"
+    "tweed": "github:ludmiloff/tweed#testbuild"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
